@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="diratama.komsi">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/iknow2"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/iknow2"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Jadwal"/>
+        <activity android:name=".AddJadwalActivity"
+            android:label="Add Jadwal"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"/>
+        </activity>
+        <activity android:name=".NavDrawer"/>
+        <activity
+            android:name=".PengaturanActivity"
+            android:label="Pengaturan"
+            android:parentActivityName=".NavDrawer">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".NavDrawer" />
+        </activity>
+        <activity
+            android:name=".ProfilActivity"
+            android:label="Profil"
+            android:parentActivityName=".PengaturanActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".PengaturanActivity" />
+        </activity>
+        <activity android:name=".StartActivity" />
+        <activity android:name=".MainActivity"
+            android:parentActivityName=".NavDrawer">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".NavDrawer"/>
+        </activity>
+        <activity android:name=".Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

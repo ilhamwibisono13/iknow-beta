@@ -1,0 +1,14 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.navdraw.NavDrawer"
+    tools:showIn="navigation_view">
+    <item
+        android:id="@+id/atur"
+        android:icon="@drawable/settings"
+        android:title="Pengaturan" />
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/logoutt"
+        android:title="Log Out" />
+</menu>

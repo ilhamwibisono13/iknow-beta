@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "345024352138",
+    "firebase_url": "https://iknow-papb.firebaseio.com",
+    "project_id": "iknow-papb",
+    "storage_bucket": "iknow-papb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345024352138:android:e6af0bc5c585290c",
+        "android_client_info": {
+          "package_name": "diratama.komsi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345024352138-lss5quqtk625ie8gcb1v0ci34801kqq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "diratama.komsi",
+            "certificate_hash": "8fc704f06c7ea119974832fc768242becac780ba"
+          }
+        },
+        {
+          "client_id": "345024352138-f87rv5h6a0kotr0a2fr9fn8769hp9j8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtYgL17EiMDEzC4GRUqN_OoVg-m69gYkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345024352138-f87rv5h6a0kotr0a2fr9fn8769hp9j8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

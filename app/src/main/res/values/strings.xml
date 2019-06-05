@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">iKNOW beta</string>
+    <string name="detail_mata_kuliah">Detail Mata Kuliah</string>
+    <string name="nama_mata_kuliah">Nama Mata Kuliah</string>
+    <string name="jam_kuliah">Jam Kuliah</string>
+    <string name="ruangan">Ruangan</string>
+    <string name="dosen">Dosen</string>
+    <string name="pengingat">Pengingat</string>
+    <string name="catatan">Catatan</string>
+    <string name="tulis_disini">Tulis disini...</string>
+    <string name="simpan">SIMPAN</string>
+    <string name="hari">Hari</string>
+    <string name="app_name1">Pengaturan</string>
+    <string name="app_name2">Pengaturan Profil</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_pengaturan">Pengaturan</string>
+    <string name="profil">Profil</string>
+    <string name="bahasa">Bahasa</string>
+    <string name="notifikasi">Notifikasi</string>
+    <string name="kalender">Kalender</string>
+    <string name="jadwalku">JADWAL KU</string>
+    <string name="senin">Senin</string>
+    <string name="selasa">Selasa</string>
+    <string name="rabu">Rabu</string>
+    <string name="kamis">Kamis</string>
+    <string name="jumat">Jumat</string>
+    <string name="sabtu">Sabtu</string>
+    <string name="emely_nur_azizah">Emely Nur Azizah</string>
+    <string name="pengaturan_profil">Pengaturan Profil</string>
+    <string name="nama_pengguna">Nama Pengguna</string>
+    <string name="email_pengguna">Email Pengguna</string>
+    <string name="unggah_foto">Unggah Foto</string>
+    <string name="unggah">Unggah</string>
+</resources>

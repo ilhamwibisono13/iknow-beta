@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">iKNOW beta</string>
+    <string name="detail_mata_kuliah">Course Detail</string>
+    <string name="nama_mata_kuliah">Course Name</string>
+    <string name="jam_kuliah">Time</string>
+    <string name="ruangan">Room</string>
+    <string name="dosen">Teacher</string>
+    <string name="pengingat">Notification</string>
+    <string name="catatan">Note</string>
+    <string name="tulis_disini">Write here…</string>
+    <string name="hari">Day</string>
+    <string name="app_name1">Settings</string>
+    <string name="app_name2">Profils Settings</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_pengaturan">Settings</string>
+    <string name="profil">Profile</string>
+    <string name="bahasa">Language</string>
+    <string name="notifikasi">Notification</string>
+    <string name="kalender">Calendar</string>
+    <string name="jadwalku">MY SCHEDULE</string>
+    <string name="senin">Monday</string>
+    <string name="selasa">Tuesday</string>
+    <string name="rabu">Wednesday</string>
+    <string name="kamis">Thursday</string>
+    <string name="jumat">Friday</string>
+    <string name="sabtu">Saturday</string>
+    <string name="emely_nur_azizah">Emely Nur Azizah</string>
+    <string name="pengaturan_profil">Profils Settings</string>
+    <string name="nama_pengguna">Username</string>
+    <string name="email_pengguna">Users Email</string>
+    <string name="unggah_foto">Upload photos</string>
+    <string name="unggah">Upload</string>
+    <string name="simpan">SAVE</string>
+</resources>

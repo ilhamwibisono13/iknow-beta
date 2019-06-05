@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".PengaturanActivity"
+    android:background="#F2F2F2">
+
+    <Button
+        android:id="@+id/akun"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppins_medium"
+        android:text="@string/profil"
+        android:background="#fff"
+        android:layout_gravity="left"
+        android:gravity="left"
+        android:padding="15dp"
+        android:layout_marginTop="5dp"/>
+
+    <Button
+        android:id="@+id/bahasa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppins_medium"
+        android:text="@string/bahasa"
+        android:background="#fff"
+        android:layout_gravity="left"
+        android:gravity="left"
+        android:padding="15dp"
+        android:layout_marginTop="5dp"/>
+
+    <Button
+        android:id="@+id/notif"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppins_medium"
+        android:text="@string/notifikasi"
+        android:background="#fff"
+        android:layout_gravity="left"
+        android:gravity="left"
+        android:padding="15dp"
+        android:layout_marginTop="5dp"/>
+
+
+</LinearLayout>

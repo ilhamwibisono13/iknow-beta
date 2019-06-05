@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#147BDF</color>
+    <color name="colorPrimaryDark">#0C4885</color>
+    <color name="colorAccent">#147BDF</color>
+    <color name="mainColor">#147BDF</color>
+    <color name="blueiknow">#147BDF</color>
+    <color name="putihbg">#FBFBFB</color>
+</resources>
