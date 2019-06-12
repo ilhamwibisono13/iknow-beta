@@ -33,6 +33,41 @@ public class NavDrawer extends AppCompatActivity {
                 startActivity(new Intent(NavDrawer.this,MainActivity.class));
             }
         });
+        CardView selasa = findViewById(R.id.cardViewSelasa);
+        selasa.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(NavDrawer.this,MainActivity.class));
+            }
+        });
+        CardView rabu = findViewById(R.id.cardViewRabu);
+        rabu.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(NavDrawer.this,MainActivity.class));
+            }
+        });
+        CardView kamis = findViewById(R.id.cardViewKamis);
+        kamis.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(NavDrawer.this,MainActivity.class));
+            }
+        });
+        CardView jumat = findViewById(R.id.cardViewJumat);
+        jumat.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(NavDrawer.this,MainActivity.class));
+            }
+        });
+        CardView sabtu = findViewById(R.id.cardViewSabtu);
+        sabtu.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(NavDrawer.this,MainActivity.class));
+            }
+        });
     }
 
     @Override
